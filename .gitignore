@@ -1,0 +1,9 @@
+node_modules/
+__pycache__/
+.codeartsdoer/
+.novelengine/
+.qoder/
+.vscode/
+*.pyc
+*.pyo
+.DS_Store
